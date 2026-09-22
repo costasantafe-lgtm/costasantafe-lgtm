@@ -1,12 +1,10 @@
-## Hi there 👋
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d1ff,100:0092ff&height=240&section=header&text=Lucas%20Costa%20Santa%20F%C3%A9&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Analista%20de%20Dados&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%" alt="Lucas Costa Santa Fé banner"/>
 </div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucascostafe/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://costasantafe@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucascostafe/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://costasantafe@gmail.com) ![Profile Views](https://komarev.com/ghpvc/?username=costasantafe-lgtm&color=06b6d4&style=flat-square)
 
 ![Open to work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20work-06b6d4?style=flat-square)
 
@@ -54,6 +52,19 @@ Analista de Dados júnior com foco em Python, SQL, modelagem e visualização de
 ### Activity
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=costasantafe-lgtm&theme=minimal&hide_border=true&area=true)](https://github-readme-activity-graph.vercel.app/graph?username=costasantafe-lgtm&theme=minimal&hide_border=true&area=true)
+
+### Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/costasantafe-lgtm/costasantafe-lgtm/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/costasantafe-lgtm/costasantafe-lgtm/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+> Requires GitHub Actions setup
 
 ---
 
