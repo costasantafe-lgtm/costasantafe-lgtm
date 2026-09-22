@@ -1,18 +1,20 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d1ff,100:0092ff&height=240&section=header&text=Lucas%20Costa%20Santa%20F%C3%A9&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Analista%20de%20Dados&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%" alt="Lucas Costa Santa Fé banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4776e6,100:8e54e9&height=240&section=header&text=Lucas%20Costa%20Santa%20F%C3%A9&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Analista%20de%20Dados&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%" alt="Lucas Costa Santa Fé banner"/>
 </div>
 
-<div align="center">
+## Lucas Costa Santa Fé
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucascostafe/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://costasantafe@gmail.com) ![Profile Views](https://komarev.com/ghpvc/?username=costasantafe-lgtm&color=06b6d4&style=flat-square)
+**Analista de Dados**
 
-![Open to work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20work-06b6d4?style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucascostafe/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:costasantafe@gmail.com) ![Profile Views](https://komarev.com/ghpvc/?username=costasantafe-lgtm&color=6366f1&style=flat-square)
 
-</div>
-
-### About
+![Open to work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20work-6366f1?style=flat-square) ![São Paulo](https://img.shields.io/badge/S%C3%A3o%20Paulo-333?style=flat-square)
 
 Analista de Dados júnior com foco em Python, SQL, modelagem e visualização de dados.
+
+> Building something interesting? Let's connect: https://www.linkedin.com/in/lucascostafe/
+
+## Snapshot
 
 - ⌖ **Location** · Brasil
 - ⌗ **Experience** · 2 anos em analise de dados e programação
@@ -20,7 +22,7 @@ Analista de Dados júnior com foco em Python, SQL, modelagem e visualização de
 - ⟳ **Learning** · APIs, Advanced SQL, Git & Data Pipelines
 - ✦ **Fun fact** · Entusiasta de museus de arte e de arquitetura histórica.
 
-### Stack
+## Tools I Reach For
 
 **Languages**
 
@@ -38,20 +40,21 @@ Analista de Dados júnior com foco em Python, SQL, modelagem e visualização de
 
 <img src="https://skillicons.dev/icons?i=jupyter,pandas,numpy,pytorch&theme=dark" alt="AI / ML"/>
 
-### Languages
+## Languages
 - 🌐 **Português** · ![Native](https://img.shields.io/badge/-Native-00e87a?style=flat-square)
+- 🌐 **Inglês** · ![Native](https://img.shields.io/badge/-Native-00e87a?style=flat-square)
 
-### GitHub Stats
+## GitHub Signals
 
-<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=costasantafe-lgtm&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="Lucas Costa Santa Fé stats"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=costasantafe-lgtm&show_icons=true&theme=calm&include_all_commits=true&count_private=true&hide_border=true" alt="Lucas Costa Santa Fé stats"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=costasantafe-lgtm&layout=compact&langs_count=8&theme=calm&hide_border=true" alt="Lucas Costa Santa Fé top languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=costasantafe-lgtm&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Lucas Costa Santa Fé top languages"/>
 
-</div>
+## Extras
 
 ### Activity
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=costasantafe-lgtm&theme=minimal&hide_border=true&area=true)](https://github-readme-activity-graph.vercel.app/graph?username=costasantafe-lgtm&theme=minimal&hide_border=true&area=true)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=costasantafe-lgtm&theme=github-dark&hide_border=true&area=true)](https://github-readme-activity-graph.vercel.app/graph?username=costasantafe-lgtm&theme=github-dark&hide_border=true&area=true)
 
 ### Contribution Snake
 
@@ -66,12 +69,8 @@ Analista de Dados júnior com foco em Python, SQL, modelagem e visualização de
 
 > Requires GitHub Actions setup
 
----
-
 <div align="center">
 
-<sub>Made with <a href="https://lebedevnet.github.io/ReadmeForge/">ReadmeForge</a> · <a href="https://github.com/costasantafe-lgtm">github.com/costasantafe-lgtm</a></sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d1ff,100:0092ff&height=120&section=footer" width="100%" alt="Footer wave"/>
+<sub>[Open ReadmeForge](https://lebedevnet.github.io/ReadmeForge/) · [Get in touch](https://www.linkedin.com/in/lucascostafe/)</sub>
 
 </div>
